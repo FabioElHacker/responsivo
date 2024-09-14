@@ -1,0 +1,7 @@
+.contenedor {
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.item {
+    background-color: aqua;
+}

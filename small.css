@@ -1,0 +1,7 @@
+.contenedor {
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.item {
+    background-color: aqua;
+}
